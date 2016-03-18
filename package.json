@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/Ositoozy/react-example-es2015.git/issues"
   },
-  "homepage": "https://github.com/Ositoozy/react-example-es2015.git#readme"
+  "homepage": "https://github.com/Ositoozy/react-example-es2015.git#readme",
+  "dependencies": {
+    "react-bootstrap": "^0.28.3"
+  }
 }
